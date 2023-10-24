@@ -1,0 +1,50 @@
+
+
+[
+
+  {
+    
+    "image": "/pic1.avif",
+    "location": "La Gaulette, Mauritius",
+    "date": "jan 23-29",
+    "price": "154 night",
+    "description": "32 kilometers away",
+    "UrlProperty":"/Property",
+    "Rate":"4.73"
+  },
+  {
+  
+    "image": "/pic2.avif",
+    "location": "Piton Saint-Leu, Reunion",
+    "date": "mar 9- 16",
+    "price": "51 night",
+    "description": "257 kilometers away",
+    "UrlProperty":"/Property",
+    "Rate":"4.83"
+  },
+  {
+   
+    "image": "/pic3.avif",  
+     "location": "Nairob, Kenya",
+    "date": "jan 18-24",
+    "price": "484 night",
+    "description": "6 kilometers away",
+    "UrlProperty":"/Property",
+    "Rate":"4.93"
+  },
+  {
+    
+    "image": "/pic4.avif",
+    "location": "Kigali, Rwanda",
+    "date": "jan 14-19",
+    "price": "144 night",
+    "description": "2362 kilometers away",
+    "UrlProperty":"/Property",
+    "Rate":"4.71"
+  }
+  
+    
+    
+ 
+
+]

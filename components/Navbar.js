@@ -11,17 +11,21 @@ import { CgProfile } from "react-icons/cg";
 import { MantineProvider } from "@mantine/core";
 // import { Modal } from '@mantine/core';
 
+
 export default function Navbar() {
   const [open, setOpen] = useState(false);
   return (
     <div className="border-b-2 border-gray-300 pb-2 grid grid-cols-6 shadow-md sticky top-0">
       <div className="relative items-center col-span-2 h-14 my-auto cursor-pointer mt-4">
+        
         <Image
           src="/airbnbb logo.png"
           layout="fill"
           objectFit="contain"
           objectPosition="left"
         />
+        
+       
       </div>
 
       <div className="flex items-center border-2 rounded-full py-2 col-span-2 mt-4">
