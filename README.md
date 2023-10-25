@@ -1,36 +1,63 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+# Next.js Project
+
+Welcome to the Next.js project! This project is Airbnb clone websites built using the Next.js framework. 
 
 ## Getting Started
 
-First, run the development server:
+Follow these steps to get started with the project:
 
-```bash
+1. **Clone the repository:**
+
+
+2. **Install dependencies:**
+
+
+3. **Run the development server:**
+
+
+The development server will start, and you can access the application in your browser at `http://localhost:3000`.
+
+## Start project
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Project Structure
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+The project's folder structure is organized as follows:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- `pages/`: Contains the application's routes and pages.
+- `components/`: Reusable components used in the application.
+- `public/`: Publicly accessible files like images.
+- `styles/`: Global styles for the application and I used Tailwind for css.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## Features
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Client Server Rendering (CSR)**: The application uses Next.js to enable server-side rendering for better SEO and performance.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- **Routing**: Easily define routes and create dynamic pages in the `pages/` directory.
 
-## Deploy on Vercel
+- **Components**: Reusable components for building your UI.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **Styling**: Styling is done using CSS-in-JS with styled-components or other CSS frameworks.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Deployment
+
+**my github**: https://github.com/nyirurugoomar
+
+## Contributing
+
+Feel free to contribute to the project. You can open issues, submit pull requests, and help improve the application.
+
+ ## devDependencies
+    "autoprefixer": "^10",
+    "eslint": "^8",
+    "eslint-config-next": "^13.5.6",
+    "postcss": "^8",
+    "tailwindcss": "^3"
+   ## dependencies
+    "heroicons": "^2.0.18",
+    "next": "^13.5.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.11.0"
