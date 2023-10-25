@@ -2,91 +2,82 @@
     {
         "id":1,
         "icon":"/Islands.jpeg",
-        "IconName":"1"
+        "IconName":"Islands"
     },
     {
         "id":2,
-        "icon":"/Islands.jpeg",
-        "IconName":"2"
+        "icon":"/Caves.jpeg",
+        "IconName":"Caves"
     },
     {
         "id":3,
-        "icon":"/Islands.jpeg",
-        "IconName":"3"
+        "icon":"/countryside.jpeg",
+        "IconName":"Country Side"
     },
     {
         "id":4,
-        "icon":"/Islands.jpeg",
-        "IconName":"4"
+        "icon":"/design.jpeg",
+        "IconName":"Design"
     },
     {
         "id":5,
-        "icon":"/Islands.jpeg",
-        "IconName":"5"
+        "icon":"/golfing.jpeg",
+        "IconName":"Golfing"
     },
     {
         "id":6,
-        "icon":"/Islands.jpeg",
-        "IconName":"6"
+        "icon":"/iconic_cities.jpeg",
+        "IconName":"Iconic Cities"
     },
     {
         "id":7,
-        "icon":"/Islands.jpeg",
-        "IconName":"7"
+        "icon":"/lake.jpeg",
+        "IconName":"Lake"
     },
     {
         "id":8,
-        "icon":"/Islands.jpeg",
-        "IconName":"8"
+        "icon":"/lakefront.jpeg",
+        "IconName":"Lake Front"
     },
     {
         "id":9,
-        "icon":"/Islands.jpeg",
-        "IconName":"9"
+        "icon":"/National parks.jpeg",
+        "IconName":"National Park"
     },
     {
         "id":10,
-        "icon":"/Islands.jpeg",
-        "IconName":"10"
+        "icon":"/omg!.jpeg",
+        "IconName":"Omg!"
     },
     {
         "id":11,
-        "icon":"/Islands.jpeg",
-        "IconName":"11"
+        "icon":"/rooms.jpeg",
+        "IconName":"Rooms"
     },
     {
         "id":12,
-        "icon":"/Islands.jpeg",
-        "IconName":"12"
+        "icon":"/surfing.jpeg",
+        "IconName":"Surfing"
     },
     {
         "id":13,
         "icon":"/Islands.jpeg",
-        "IconName":"13"
+        "IconName":"Island city"
     },
     {
         "id":14,
         "icon":"/Islands.jpeg",
-        "IconName":"15"
+        "IconName":"Island city"
     },
     {
         "id":15,
         "icon":"/Islands.jpeg",
-        "IconName":"15"
+        "IconName":"Island"
     },
     {
         "id":16,
         "icon":"/Islands.jpeg",
-        "IconName":"16"
-    },
-    {
-        "id":17,
-        "icon":"/Islands.jpeg",
-        "IconName":"17"
-    },
-    {
-        "id":18,
-        "icon":"/Islands.jpeg",
-        "IconName":"18"
+        "IconName":"Island city"
     }
+    
 ]

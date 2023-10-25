@@ -6,7 +6,7 @@ import { MdOutlineSyncAlt } from "react-icons/md";
 import categorybar from "./CategoryBar.json"
 function CategoryBar() {
     const [startIndex,setStartIndex] = useState(0)
-    const iconsPerPage = 9
+    const iconsPerPage = 8
     const iconsToShow = categorybar.slice(startIndex, startIndex + iconsPerPage);
     
 
@@ -21,6 +21,7 @@ function CategoryBar() {
     <>
     
       <div className="flex items-center h-24 space-x-5 border border-b-black">
+        
         <button onClick={handlePrevious} disabled={startIndex === 0}>
            <CiCircleChevLeft size={30}/>
         </button>
@@ -31,7 +32,7 @@ function CategoryBar() {
             
             <div className="flex items-center justify-center apace-x-10">
                 
-           <div className="flex flex-col items-center text-gray-400 hover:text-black gap-2 pl-16 transition-all ">
+           <div className="flex flex-col items-center text-gray-400 hover:text-black gap-2 pl-16 overflow-x-auto ">
             
              <Image src={categorybars.icon} width={24} height={24} />
              <p className="text-xs font-normal">{categorybars.IconName}</p>

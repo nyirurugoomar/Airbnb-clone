@@ -9,7 +9,7 @@
     "date": "jan 23-29",
     "price": "154 night",
     "description": "32 kilometers away",
-    "UrlProperty":"/Property",
+    "UrlProperty":"/card1",
     "Rate":"4.73"
   },
   {
@@ -19,7 +19,7 @@
     "date": "mar 9- 16",
     "price": "51 night",
     "description": "257 kilometers away",
-    "UrlProperty":"/Property",
+    "UrlProperty":"/card2",
     "Rate":"4.83"
   },
   {
@@ -29,7 +29,7 @@
     "date": "jan 18-24",
     "price": "484 night",
     "description": "6 kilometers away",
-    "UrlProperty":"/Property",
+    "UrlProperty":"/card3",
     "Rate":"4.93"
   },
   {
@@ -39,7 +39,7 @@
     "date": "jan 14-19",
     "price": "144 night",
     "description": "2362 kilometers away",
-    "UrlProperty":"/Property",
+    "UrlProperty":"/card4",
     "Rate":"4.71"
   }
   
